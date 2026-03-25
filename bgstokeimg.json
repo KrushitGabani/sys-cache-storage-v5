@@ -1,0 +1,355 @@
+{
+  "total_categories": 70,
+  "categories": [
+    {
+      "index": 1,
+      "name": "LUXURIOS",
+      "file_path": "all_json/3055.json"
+    },
+    {
+      "index": 2,
+      "name": "MEME",
+      "file_path": "all_json/3094.json"
+    },
+    {
+      "index": 3,
+      "name": "CHALKBOARD",
+      "file_path": "all_json/3095.json"
+    },
+    {
+      "index": 4,
+      "name": "WALL",
+      "file_path": "all_json/3096.json"
+    },
+    {
+      "index": 5,
+      "name": "TEXTURE",
+      "file_path": "all_json/3097.json"
+    },
+    {
+      "index": 6,
+      "name": "RETRO GROOVY",
+      "file_path": "all_json/3098.json"
+    },
+    {
+      "index": 7,
+      "name": "LIGHT",
+      "file_path": "all_json/3099.json"
+    },
+    {
+      "index": 8,
+      "name": "ABSTRACT",
+      "file_path": "all_json/3100.json"
+    },
+    {
+      "index": 9,
+      "name": "TIME LAPES",
+      "file_path": "all_json/3101.json"
+    },
+    {
+      "index": 10,
+      "name": "WINTER",
+      "file_path": "all_json/3102.json"
+    },
+    {
+      "index": 11,
+      "name": "SPACE",
+      "file_path": "all_json/3103.json"
+    },
+    {
+      "index": 12,
+      "name": "SUNSET",
+      "file_path": "all_json/3104.json"
+    },
+    {
+      "index": 13,
+      "name": "THUNDER",
+      "file_path": "all_json/3105.json"
+    },
+    {
+      "index": 14,
+      "name": "NEON",
+      "file_path": "all_json/3106.json"
+    },
+    {
+      "index": 15,
+      "name": "SMOKE",
+      "file_path": "all_json/3107.json"
+    },
+    {
+      "index": 16,
+      "name": "SOFT FUR",
+      "file_path": "all_json/3108.json"
+    },
+    {
+      "index": 17,
+      "name": "MOTIVATIONAL",
+      "file_path": "all_json/3109.json"
+    },
+    {
+      "index": 18,
+      "name": "LOVE",
+      "file_path": "all_json/3110.json"
+    },
+    {
+      "index": 19,
+      "name": "CARD",
+      "file_path": "all_json/3111.json"
+    },
+    {
+      "index": 20,
+      "name": "BLACK & WHITE",
+      "file_path": "all_json/3112.json"
+    },
+    {
+      "index": 21,
+      "name": "3D PODIUM",
+      "file_path": "all_json/3113.json"
+    },
+    {
+      "index": 22,
+      "name": "NIGHT",
+      "file_path": "all_json/3114.json"
+    },
+    {
+      "index": 23,
+      "name": "EVENT",
+      "file_path": "all_json/3115.json"
+    },
+    {
+      "index": 24,
+      "name": "RAIN",
+      "file_path": "all_json/3116.json"
+    },
+    {
+      "index": 25,
+      "name": "ANIMAL",
+      "file_path": "all_json/3117.json"
+    },
+    {
+      "index": 26,
+      "name": "BEACH",
+      "file_path": "all_json/3118.json"
+    },
+    {
+      "index": 27,
+      "name": "BIRDS",
+      "file_path": "all_json/3119.json"
+    },
+    {
+      "index": 28,
+      "name": "FASHION",
+      "file_path": "all_json/3120.json"
+    },
+    {
+      "index": 29,
+      "name": "INTERIOR DESIGN",
+      "file_path": "all_json/3121.json"
+    },
+    {
+      "index": 30,
+      "name": "MOBILE",
+      "file_path": "all_json/3122.json"
+    },
+    {
+      "index": 31,
+      "name": "MINIMALIST",
+      "file_path": "all_json/3123.json"
+    },
+    {
+      "index": 32,
+      "name": "MODEL",
+      "file_path": "all_json/3124.json"
+    },
+    {
+      "index": 33,
+      "name": "SUMMER",
+      "file_path": "all_json/3125.json"
+    },
+    {
+      "index": 34,
+      "name": "TECHNOLOGY",
+      "file_path": "all_json/3126.json"
+    },
+    {
+      "index": 35,
+      "name": "WEDDING",
+      "file_path": "all_json/3127.json"
+    },
+    {
+      "index": 36,
+      "name": "BABY",
+      "file_path": "all_json/3128.json"
+    },
+    {
+      "index": 37,
+      "name": "BLURRY",
+      "file_path": "all_json/3129.json"
+    },
+    {
+      "index": 38,
+      "name": "NAILS",
+      "file_path": "all_json/3130.json"
+    },
+    {
+      "index": 39,
+      "name": "SPA",
+      "file_path": "all_json/3131.json"
+    },
+    {
+      "index": 40,
+      "name": "FLOWER",
+      "file_path": "all_json/3132.json"
+    },
+    {
+      "index": 41,
+      "name": "TRAVEL",
+      "file_path": "all_json/3133.json"
+    },
+    {
+      "index": 42,
+      "name": "STAGE",
+      "file_path": "all_json/3134.json"
+    },
+    {
+      "index": 43,
+      "name": "WEDDING VENUE",
+      "file_path": "all_json/3135.json"
+    },
+    {
+      "index": 44,
+      "name": "ARTS & HANDCRAFT",
+      "file_path": "all_json/3136.json"
+    },
+    {
+      "index": 45,
+      "name": "ARCHITECTURE",
+      "file_path": "all_json/3137.json"
+    },
+    {
+      "index": 46,
+      "name": "PHOTOGRAPHY",
+      "file_path": "all_json/3138.json"
+    },
+    {
+      "index": 47,
+      "name": "WATER",
+      "file_path": "all_json/3139.json"
+    },
+    {
+      "index": 48,
+      "name": "MUSIC",
+      "file_path": "all_json/3140.json"
+    },
+    {
+      "index": 49,
+      "name": "GYM & FITNESS",
+      "file_path": "all_json/3141.json"
+    },
+    {
+      "index": 50,
+      "name": "HEALTHCARE",
+      "file_path": "all_json/3142.json"
+    },
+    {
+      "index": 51,
+      "name": "ELECTRONICS",
+      "file_path": "all_json/3143.json"
+    },
+    {
+      "index": 52,
+      "name": "ACCOUNTING & FINANCE",
+      "file_path": "all_json/3144.json"
+    },
+    {
+      "index": 53,
+      "name": "DIAMOND & JEWELRY",
+      "file_path": "all_json/3145.json"
+    },
+    {
+      "index": 54,
+      "name": "SPORTS",
+      "file_path": "all_json/3146.json"
+    },
+    {
+      "index": 55,
+      "name": "KIDS",
+      "file_path": "all_json/3147.json"
+    },
+    {
+      "index": 56,
+      "name": "CHURCH",
+      "file_path": "all_json/3148.json"
+    },
+    {
+      "index": 57,
+      "name": "FIRE",
+      "file_path": "all_json/3149.json"
+    },
+    {
+      "index": 58,
+      "name": "BAKERY",
+      "file_path": "all_json/3150.json"
+    },
+    {
+      "index": 59,
+      "name": "BEAUTY & SALON",
+      "file_path": "all_json/3151.json"
+    },
+    {
+      "index": 60,
+      "name": "AUTOMOBILE",
+      "file_path": "all_json/3152.json"
+    },
+    {
+      "index": 61,
+      "name": "EDUCATION",
+      "file_path": "all_json/3153.json"
+    },
+    {
+      "index": 62,
+      "name": "DANCE",
+      "file_path": "all_json/3154.json"
+    },
+    {
+      "index": 63,
+      "name": "REAL ESTATE",
+      "file_path": "all_json/3155.json"
+    },
+    {
+      "index": 64,
+      "name": "NATURE",
+      "file_path": "all_json/3156.json"
+    },
+    {
+      "index": 65,
+      "name": "BUSINESS",
+      "file_path": "all_json/3157.json"
+    },
+    {
+      "index": 66,
+      "name": "BIRTHDAY",
+      "file_path": "all_json/3158.json"
+    },
+    {
+      "index": 67,
+      "name": "FESTIVALS",
+      "file_path": "all_json/3159.json"
+    },
+    {
+      "index": 68,
+      "name": "DAY CELEBRATION",
+      "file_path": "all_json/3160.json"
+    },
+    {
+      "index": 69,
+      "name": "DRINK",
+      "file_path": "all_json/3277.json"
+    },
+    {
+      "index": 70,
+      "name": "FOOD",
+      "file_path": "all_json/3278.json"
+    }
+  ]
+}

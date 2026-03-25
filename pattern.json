@@ -1,0 +1,120 @@
+{
+  "total_categories": 23,
+  "categories": [
+    {
+      "index": 1,
+      "name": "DOTS",
+      "file_path": "all_json/3056.json"
+    },
+    {
+      "index": 2,
+      "name": "AUTUMN",
+      "file_path": "all_json/3072.json"
+    },
+    {
+      "index": 3,
+      "name": "FABRIC",
+      "file_path": "all_json/3073.json"
+    },
+    {
+      "index": 4,
+      "name": "FRUIT",
+      "file_path": "all_json/3074.json"
+    },
+    {
+      "index": 5,
+      "name": "HALLOWEEN",
+      "file_path": "all_json/3075.json"
+    },
+    {
+      "index": 6,
+      "name": "HEART",
+      "file_path": "all_json/3076.json"
+    },
+    {
+      "index": 7,
+      "name": "ROUND",
+      "file_path": "all_json/3077.json"
+    },
+    {
+      "index": 8,
+      "name": "SQUARE",
+      "file_path": "all_json/3078.json"
+    },
+    {
+      "index": 9,
+      "name": "STAR",
+      "file_path": "all_json/3079.json"
+    },
+    {
+      "index": 10,
+      "name": "ARROW",
+      "file_path": "all_json/3080.json"
+    },
+    {
+      "index": 11,
+      "name": "BRUSH",
+      "file_path": "all_json/3081.json"
+    },
+    {
+      "index": 12,
+      "name": "LINE",
+      "file_path": "all_json/3082.json"
+    },
+    {
+      "index": 13,
+      "name": "MANDALA",
+      "file_path": "all_json/3083.json"
+    },
+    {
+      "index": 14,
+      "name": "HAND DRAWN",
+      "file_path": "all_json/3084.json"
+    },
+    {
+      "index": 15,
+      "name": "SEASON",
+      "file_path": "all_json/3085.json"
+    },
+    {
+      "index": 16,
+      "name": "FOOD",
+      "file_path": "all_json/3086.json"
+    },
+    {
+      "index": 17,
+      "name": "FLORAL",
+      "file_path": "all_json/3087.json"
+    },
+    {
+      "index": 18,
+      "name": "BUSINESS",
+      "file_path": "all_json/3088.json"
+    },
+    {
+      "index": 19,
+      "name": "ANIMALS & BIRDS",
+      "file_path": "all_json/3089.json"
+    },
+    {
+      "index": 20,
+      "name": "FESTIVAL",
+      "file_path": "all_json/3090.json"
+    },
+    {
+      "index": 21,
+      "name": "WATERCOLOR",
+      "file_path": "all_json/3091.json"
+    },
+    {
+      "index": 22,
+      "name": "LANDSCAPE",
+      "file_path": "all_json/3092.json"
+    },
+    {
+      "index": 23,
+      "name": "ABSTRACT",
+      "file_path": "all_json/3093.json"
+    }
+  ]
+}

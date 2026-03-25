@@ -1,0 +1,345 @@
+{
+  "total_categories": 68,
+  "categories": [
+    {
+      "index": 1,
+      "name": "DAY & FESTIVAL",
+      "file_path": "all_json/3053.json"
+    },
+    {
+      "index": 2,
+      "name": "BUSINESS OUTLINE ICON",
+      "file_path": "all_json/3199.json"
+    },
+    {
+      "index": 3,
+      "name": "BUSINESS FILL ICON",
+      "file_path": "all_json/3200.json"
+    },
+    {
+      "index": 4,
+      "name": "ICONS",
+      "file_path": "all_json/3202.json"
+    },
+    {
+      "index": 5,
+      "name": "3D",
+      "file_path": "all_json/3204.json"
+    },
+    {
+      "index": 6,
+      "name": "INSURANCE",
+      "file_path": "all_json/3205.json"
+    },
+    {
+      "index": 7,
+      "name": "JEWELRY",
+      "file_path": "all_json/3206.json"
+    },
+    {
+      "index": 8,
+      "name": "HEALTHCARE",
+      "file_path": "all_json/3207.json"
+    },
+    {
+      "index": 9,
+      "name": "FLOWER & LEAFS",
+      "file_path": "all_json/3208.json"
+    },
+    {
+      "index": 10,
+      "name": "AUTOMOBILE",
+      "file_path": "all_json/3209.json"
+    },
+    {
+      "index": 11,
+      "name": "FISHING",
+      "file_path": "all_json/3210.json"
+    },
+    {
+      "index": 12,
+      "name": "GAMING",
+      "file_path": "all_json/3211.json"
+    },
+    {
+      "index": 13,
+      "name": "SPORTS",
+      "file_path": "all_json/3212.json"
+    },
+    {
+      "index": 14,
+      "name": "BEAUTY & SPA",
+      "file_path": "all_json/3213.json"
+    },
+    {
+      "index": 15,
+      "name": "FASHION",
+      "file_path": "all_json/3214.json"
+    },
+    {
+      "index": 16,
+      "name": "TRAVEL",
+      "file_path": "all_json/3215.json"
+    },
+    {
+      "index": 17,
+      "name": "FITNESS & GYM",
+      "file_path": "all_json/3216.json"
+    },
+    {
+      "index": 18,
+      "name": "KITCHEN",
+      "file_path": "all_json/3217.json"
+    },
+    {
+      "index": 19,
+      "name": "FOOD & DRINK",
+      "file_path": "all_json/3218.json"
+    },
+    {
+      "index": 20,
+      "name": "EDUCATION",
+      "file_path": "all_json/3219.json"
+    },
+    {
+      "index": 21,
+      "name": "REAL ESTATE",
+      "file_path": "all_json/3220.json"
+    },
+    {
+      "index": 22,
+      "name": "MALE MODEL",
+      "file_path": "all_json/3221.json"
+    },
+    {
+      "index": 23,
+      "name": "FEMALE MODEL",
+      "file_path": "all_json/3222.json"
+    },
+    {
+      "index": 24,
+      "name": "ANIMALS & PETS",
+      "file_path": "all_json/3223.json"
+    },
+    {
+      "index": 25,
+      "name": "DANCE",
+      "file_path": "all_json/3224.json"
+    },
+    {
+      "index": 26,
+      "name": "FOCUS",
+      "file_path": "all_json/3225.json"
+    },
+    {
+      "index": 27,
+      "name": "STRING LIGHTS",
+      "file_path": "all_json/3227.json"
+    },
+    {
+      "index": 28,
+      "name": "NEON",
+      "file_path": "all_json/3228.json"
+    },
+    {
+      "index": 29,
+      "name": "ARTS & DESIGN",
+      "file_path": "all_json/3229.json"
+    },
+    {
+      "index": 30,
+      "name": "RELIGIOUS",
+      "file_path": "all_json/3230.json"
+    },
+    {
+      "index": 31,
+      "name": "ENTERTAINMENT",
+      "file_path": "all_json/3231.json"
+    },
+    {
+      "index": 32,
+      "name": "ACCOUNTING",
+      "file_path": "all_json/3232.json"
+    },
+    {
+      "index": 33,
+      "name": "COMPUTER & MOBILE ACCESSORIES",
+      "file_path": "all_json/3233.json"
+    },
+    {
+      "index": 34,
+      "name": "EVENT",
+      "file_path": "all_json/3234.json"
+    },
+    {
+      "index": 35,
+      "name": "NONPROFIT",
+      "file_path": "all_json/3235.json"
+    },
+    {
+      "index": 36,
+      "name": "SCIENCE & TECHNOLOGY",
+      "file_path": "all_json/3236.json"
+    },
+    {
+      "index": 37,
+      "name": "CLEANING SERVICES",
+      "file_path": "all_json/3237.json"
+    },
+    {
+      "index": 38,
+      "name": "AGRICULTURE & LANDSCAPING",
+      "file_path": "all_json/3239.json"
+    },
+    {
+      "index": 39,
+      "name": "FIRE",
+      "file_path": "all_json/3242.json"
+    },
+    {
+      "index": 40,
+      "name": "QR FRAME",
+      "file_path": "all_json/3243.json"
+    },
+    {
+      "index": 41,
+      "name": "VERSUS",
+      "file_path": "all_json/3244.json"
+    },
+    {
+      "index": 42,
+      "name": "ANIME",
+      "file_path": "all_json/3245.json"
+    },
+    {
+      "index": 43,
+      "name": "BUSINESS",
+      "file_path": "all_json/3246.json"
+    },
+    {
+      "index": 44,
+      "name": "SMARTPHONE",
+      "file_path": "all_json/3247.json"
+    },
+    {
+      "index": 45,
+      "name": "NOTICE POINT",
+      "file_path": "all_json/3248.json"
+    },
+    {
+      "index": 46,
+      "name": "LOCATION",
+      "file_path": "all_json/3249.json"
+    },
+    {
+      "index": 47,
+      "name": "DOWNLOAD",
+      "file_path": "all_json/3250.json"
+    },
+    {
+      "index": 48,
+      "name": "EMAIL",
+      "file_path": "all_json/3251.json"
+    },
+    {
+      "index": 49,
+      "name": "NOTIFICATION",
+      "file_path": "all_json/3252.json"
+    },
+    {
+      "index": 50,
+      "name": "SHADOW",
+      "file_path": "all_json/3253.json"
+    },
+    {
+      "index": 51,
+      "name": "SUBSCRIBE",
+      "file_path": "all_json/3254.json"
+    },
+    {
+      "index": 52,
+      "name": "ALPHABETS",
+      "file_path": "all_json/3257.json"
+    },
+    {
+      "index": 53,
+      "name": "ZODIAC",
+      "file_path": "all_json/3258.json"
+    },
+    {
+      "index": 54,
+      "name": "LIKE",
+      "file_path": "all_json/3259.json"
+    },
+    {
+      "index": 55,
+      "name": "LEGAL ADVISOR",
+      "file_path": "all_json/3260.json"
+    },
+    {
+      "index": 56,
+      "name": "COGWHEEL",
+      "file_path": "all_json/3261.json"
+    },
+    {
+      "index": 57,
+      "name": "FLAG",
+      "file_path": "all_json/3262.json"
+    },
+    {
+      "index": 58,
+      "name": "AUTUMN",
+      "file_path": "all_json/3263.json"
+    },
+    {
+      "index": 59,
+      "name": "AWARDS",
+      "file_path": "all_json/3264.json"
+    },
+    {
+      "index": 60,
+      "name": "KING",
+      "file_path": "all_json/3266.json"
+    },
+    {
+      "index": 61,
+      "name": "HUMAN BODY",
+      "file_path": "all_json/3267.json"
+    },
+    {
+      "index": 62,
+      "name": "COUPLE",
+      "file_path": "all_json/3270.json"
+    },
+    {
+      "index": 63,
+      "name": "ISOMETRIC",
+      "file_path": "all_json/3271.json"
+    },
+    {
+      "index": 64,
+      "name": "PRODUCT ELEMENTS",
+      "file_path": "all_json/3272.json"
+    },
+    {
+      "index": 65,
+      "name": "NUMBERS",
+      "file_path": "all_json/3282.json"
+    },
+    {
+      "index": 66,
+      "name": "VOLUNTEERS",
+      "file_path": "all_json/3283.json"
+    },
+    {
+      "index": 67,
+      "name": "BIRDS",
+      "file_path": "all_json/3284.json"
+    },
+    {
+      "index": 68,
+      "name": "FEATHERS",
+      "file_path": "all_json/3285.json"
+    }
+  ]
+}

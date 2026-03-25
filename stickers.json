@@ -1,0 +1,165 @@
+{
+  "total_categories": 32,
+  "categories": [
+    {
+      "index": 1,
+      "name": "BESIC",
+      "file_path": "all_json/3052.json"
+    },
+    {
+      "index": 2,
+      "name": "LINE",
+      "file_path": "all_json/3057.json"
+    },
+    {
+      "index": 3,
+      "name": "SQUARE",
+      "file_path": "all_json/3058.json"
+    },
+    {
+      "index": 4,
+      "name": "CIRCLE",
+      "file_path": "all_json/3059.json"
+    },
+    {
+      "index": 5,
+      "name": "OVAL",
+      "file_path": "all_json/3060.json"
+    },
+    {
+      "index": 6,
+      "name": "RECTANGLE",
+      "file_path": "all_json/3061.json"
+    },
+    {
+      "index": 7,
+      "name": "SEMICIRCLE",
+      "file_path": "all_json/3062.json"
+    },
+    {
+      "index": 8,
+      "name": "TRIANGLE",
+      "file_path": "all_json/3063.json"
+    },
+    {
+      "index": 9,
+      "name": "SHEILD",
+      "file_path": "all_json/3064.json"
+    },
+    {
+      "index": 10,
+      "name": "LIQUID",
+      "file_path": "all_json/3065.json"
+    },
+    {
+      "index": 11,
+      "name": "STAR",
+      "file_path": "all_json/3066.json"
+    },
+    {
+      "index": 12,
+      "name": "FLOWCHART",
+      "file_path": "all_json/3067.json"
+    },
+    {
+      "index": 13,
+      "name": "ARROW",
+      "file_path": "all_json/3068.json"
+    },
+    {
+      "index": 14,
+      "name": "HEART",
+      "file_path": "all_json/3069.json"
+    },
+    {
+      "index": 15,
+      "name": "FLOWER",
+      "file_path": "all_json/3070.json"
+    },
+    {
+      "index": 16,
+      "name": "GEOMETRIC",
+      "file_path": "all_json/3071.json"
+    },
+    {
+      "index": 17,
+      "name": "SOCIAL MEDIA",
+      "file_path": "all_json/3198.json"
+    },
+    {
+      "index": 18,
+      "name": "UTILITY ICON",
+      "file_path": "all_json/3201.json"
+    },
+    {
+      "index": 19,
+      "name": "3D GEOMETRIC",
+      "file_path": "all_json/3203.json"
+    },
+    {
+      "index": 20,
+      "name": "SPARKLE",
+      "file_path": "all_json/3226.json"
+    },
+    {
+      "index": 21,
+      "name": "ABSTRACT",
+      "file_path": "all_json/3238.json"
+    },
+    {
+      "index": 22,
+      "name": "BORDERS",
+      "file_path": "all_json/3240.json"
+    },
+    {
+      "index": 23,
+      "name": "DIVIDERS",
+      "file_path": "all_json/3241.json"
+    },
+    {
+      "index": 24,
+      "name": "FRAME",
+      "file_path": "all_json/3255.json"
+    },
+    {
+      "index": 25,
+      "name": "GEOMETRIC & MEMPHIS",
+      "file_path": "all_json/3256.json"
+    },
+    {
+      "index": 26,
+      "name": "FIRE WORKS",
+      "file_path": "all_json/3265.json"
+    },
+    {
+      "index": 27,
+      "name": "QUOTES",
+      "file_path": "all_json/3268.json"
+    },
+    {
+      "index": 28,
+      "name": "STICKY NOTES",
+      "file_path": "all_json/3269.json"
+    },
+    {
+      "index": 29,
+      "name": "GRAINY GRADIENT",
+      "file_path": "all_json/3273.json"
+    },
+    {
+      "index": 30,
+      "name": "LOGOTYPE",
+      "file_path": "all_json/3279.json"
+    },
+    {
+      "index": 31,
+      "name": "BANNERS",
+      "file_path": "all_json/3280.json"
+    },
+    {
+      "index": 32,
+      "name": "TAPES",
+      "file_path": "all_json/3281.json"
+    }
+  ]
+}
