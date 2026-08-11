@@ -1,0 +1,400 @@
+{
+  "total_categories": 79,
+  "categories": [
+    {
+      "index": 1,
+      "name": "Travel",
+      "file_path": "all_json/travel.json"
+    },
+    {
+      "index": 2,
+      "name": "Digital",
+      "file_path": "all_json/digital.json"
+    },
+    {
+      "index": 3,
+      "name": "Metal Bead Letters",
+      "file_path": "all_json/metal_bead_letters.json"
+    },
+    {
+      "index": 4,
+      "name": "Shells",
+      "file_path": "all_json/shells.json"
+    },
+    {
+      "index": 5,
+      "name": "Flowers",
+      "file_path": "all_json/flowers.json"
+    },
+    {
+      "index": 6,
+      "name": "Fruits",
+      "file_path": "all_json/fruits.json"
+    },
+    {
+      "index": 7,
+      "name": "Embroidery",
+      "file_path": "all_json/embroidery.json"
+    },
+    {
+      "index": 8,
+      "name": "Bead Letters",
+      "file_path": "all_json/bead_letters.json"
+    },
+    {
+      "index": 9,
+      "name": "Bead Phrases",
+      "file_path": "all_json/bead_phrases.json"
+    },
+    {
+      "index": 10,
+      "name": "Black Duct",
+      "file_path": "all_json/black_duct.json"
+    },
+    {
+      "index": 11,
+      "name": "Brushes",
+      "file_path": "all_json/brushes.json"
+    },
+    {
+      "index": 12,
+      "name": "Cardboard",
+      "file_path": "all_json/cardboard.json"
+    },
+    {
+      "index": 13,
+      "name": "Christmas",
+      "file_path": "all_json/christmas.json"
+    },
+    {
+      "index": 14,
+      "name": "Cine",
+      "file_path": "all_json/cine.json"
+    },
+    {
+      "index": 15,
+      "name": "Clear",
+      "file_path": "all_json/clear.json"
+    },
+    {
+      "index": 16,
+      "name": "Collage Phrases",
+      "file_path": "all_json/collage_phrases.json"
+    },
+    {
+      "index": 17,
+      "name": "Cutout Letters",
+      "file_path": "all_json/cutout_letters.json"
+    },
+    {
+      "index": 18,
+      "name": "Cutout Numbers",
+      "file_path": "all_json/cutout_numbers.json"
+    },
+    {
+      "index": 19,
+      "name": "Cutout Objects",
+      "file_path": "all_json/cutout_objects.json"
+    },
+    {
+      "index": 20,
+      "name": "Cutout Phrases",
+      "file_path": "all_json/cutout_phrases.json"
+    },
+    {
+      "index": 21,
+      "name": "Cutout Symbols",
+      "file_path": "all_json/cutout_symbols.json"
+    },
+    {
+      "index": 22,
+      "name": "Digital Phrases",
+      "file_path": "all_json/digital_phrases.json"
+    },
+    {
+      "index": 23,
+      "name": "Duct",
+      "file_path": "all_json/duct.json"
+    },
+    {
+      "index": 24,
+      "name": "Dust",
+      "file_path": "all_json/dust.json"
+    },
+    {
+      "index": 25,
+      "name": "D\u00eda de Muertos",
+      "file_path": "all_json/d\u00eda_de_muertos.json"
+    },
+    {
+      "index": 26,
+      "name": "Fall",
+      "file_path": "all_json/fall.json"
+    },
+    {
+      "index": 27,
+      "name": "Halloween",
+      "file_path": "all_json/halloween.json"
+    },
+    {
+      "index": 28,
+      "name": "Holidays",
+      "file_path": "all_json/holidays.json"
+    },
+    {
+      "index": 29,
+      "name": "Label Letters",
+      "file_path": "all_json/label_letters.json"
+    },
+    {
+      "index": 30,
+      "name": "Label Phrases",
+      "file_path": "all_json/label_phrases.json"
+    },
+    {
+      "index": 31,
+      "name": "Love Letters",
+      "file_path": "all_json/love_letters.json"
+    },
+    {
+      "index": 32,
+      "name": "Love Phrases",
+      "file_path": "all_json/love_phrases.json"
+    },
+    {
+      "index": 33,
+      "name": "Love",
+      "file_path": "all_json/love.json"
+    },
+    {
+      "index": 34,
+      "name": "Masking",
+      "file_path": "all_json/masking.json"
+    },
+    {
+      "index": 35,
+      "name": "Packaging",
+      "file_path": "all_json/packaging.json"
+    },
+    {
+      "index": 36,
+      "name": "Paper",
+      "file_path": "all_json/paper.json"
+    },
+    {
+      "index": 37,
+      "name": "Recap 2025 Phrases",
+      "file_path": "all_json/recap_2025_phrases.json"
+    },
+    {
+      "index": 38,
+      "name": "Scrapbook Items",
+      "file_path": "all_json/scrapbook_items.json"
+    },
+    {
+      "index": 39,
+      "name": "Flags",
+      "file_path": "all_json/flags.json"
+    },
+    {
+      "index": 40,
+      "name": "Scribble Frames",
+      "file_path": "all_json/scribble_frames.json"
+    },
+    {
+      "index": 41,
+      "name": "Scribble Phrases",
+      "file_path": "all_json/scribble_phrases.json"
+    },
+    {
+      "index": 42,
+      "name": "Scribbles",
+      "file_path": "all_json/scribbles.json"
+    },
+    {
+      "index": 43,
+      "name": "Stickers",
+      "file_path": "all_json/stickers.json"
+    },
+    {
+      "index": 44,
+      "name": "Subtitles",
+      "file_path": "all_json/subtitles.json"
+    },
+    {
+      "index": 45,
+      "name": "Tile Letters",
+      "file_path": "all_json/tile_letters.json"
+    },
+    {
+      "index": 46,
+      "name": "Tile Phrases",
+      "file_path": "all_json/tile_phrases.json"
+    },
+    {
+      "index": 47,
+      "name": "Top Stickers",
+      "file_path": "all_json/top_stickers.json"
+    },
+    {
+      "index": 48,
+      "name": "BESIC",
+      "file_path": "all_json/3052.json"
+    },
+    {
+      "index": 49,
+      "name": "LINE",
+      "file_path": "all_json/3057.json"
+    },
+    {
+      "index": 50,
+      "name": "SQUARE",
+      "file_path": "all_json/3058.json"
+    },
+    {
+      "index": 51,
+      "name": "CIRCLE",
+      "file_path": "all_json/3059.json"
+    },
+    {
+      "index": 52,
+      "name": "OVAL",
+      "file_path": "all_json/3060.json"
+    },
+    {
+      "index": 53,
+      "name": "RECTANGLE",
+      "file_path": "all_json/3061.json"
+    },
+    {
+      "index": 54,
+      "name": "SEMICIRCLE",
+      "file_path": "all_json/3062.json"
+    },
+    {
+      "index": 55,
+      "name": "TRIANGLE",
+      "file_path": "all_json/3063.json"
+    },
+    {
+      "index": 56,
+      "name": "SHEILD",
+      "file_path": "all_json/3064.json"
+    },
+    {
+      "index": 57,
+      "name": "LIQUID",
+      "file_path": "all_json/3065.json"
+    },
+    {
+      "index": 58,
+      "name": "STAR",
+      "file_path": "all_json/3066.json"
+    },
+    {
+      "index": 59,
+      "name": "FLOWCHART",
+      "file_path": "all_json/3067.json"
+    },
+    {
+      "index": 60,
+      "name": "ARROW",
+      "file_path": "all_json/3068.json"
+    },
+    {
+      "index": 61,
+      "name": "HEART",
+      "file_path": "all_json/3069.json"
+    },
+    {
+      "index": 62,
+      "name": "FLOWER",
+      "file_path": "all_json/3070.json"
+    },
+    {
+      "index": 63,
+      "name": "GEOMETRIC",
+      "file_path": "all_json/3071.json"
+    },
+    {
+      "index": 64,
+      "name": "SOCIAL MEDIA",
+      "file_path": "all_json/3198.json"
+    },
+    {
+      "index": 65,
+      "name": "UTILITY ICON",
+      "file_path": "all_json/3201.json"
+    },
+    {
+      "index": 66,
+      "name": "3D GEOMETRIC",
+      "file_path": "all_json/3203.json"
+    },
+    {
+      "index": 67,
+      "name": "SPARKLE",
+      "file_path": "all_json/3226.json"
+    },
+    {
+      "index": 68,
+      "name": "ABSTRACT",
+      "file_path": "all_json/3238.json"
+    },
+    {
+      "index": 69,
+      "name": "BORDERS",
+      "file_path": "all_json/3240.json"
+    },
+    {
+      "index": 70,
+      "name": "DIVIDERS",
+      "file_path": "all_json/3241.json"
+    },
+    {
+      "index": 71,
+      "name": "FRAME",
+      "file_path": "all_json/3255.json"
+    },
+    {
+      "index": 72,
+      "name": "GEOMETRIC & MEMPHIS",
+      "file_path": "all_json/3256.json"
+    },
+    {
+      "index": 73,
+      "name": "FIRE WORKS",
+      "file_path": "all_json/3265.json"
+    },
+    {
+      "index": 74,
+      "name": "QUOTES",
+      "file_path": "all_json/3268.json"
+    },
+    {
+      "index": 75,
+      "name": "STICKY NOTES",
+      "file_path": "all_json/3269.json"
+    },
+    {
+      "index": 76,
+      "name": "GRAINY GRADIENT",
+      "file_path": "all_json/3273.json"
+    },
+    {
+      "index": 77,
+      "name": "LOGOTYPE",
+      "file_path": "all_json/3279.json"
+    },
+    {
+      "index": 78,
+      "name": "BANNERS",
+      "file_path": "all_json/3280.json"
+    },
+    {
+      "index": 79,
+      "name": "TAPES",
+      "file_path": "all_json/3281.json"
+    }
+  ]
+}
